@@ -1,0 +1,129 @@
+[submodule "a-path-finding-visualization"]
+	path = a-path-finding-visualization
+	url = https://github.com/techwithtim/a-path-finding-visualization.git
+[submodule "account-storage"]
+	path = account-storage
+	url = https://github.com/techwithtim/account-storage.git
+[submodule "agar-io"]
+	path = agar-io
+	url = https://github.com/techwithtim/agar-io.git
+[submodule "black-jack"]
+	path = black-jack
+	url = https://github.com/techwithtim/black-jack.git
+[submodule "chat-web-app"]
+	path = chat-web-app
+	url = https://github.com/techwithtim/chat-web-app.git
+[submodule "coloredtextinpython"]
+	path = coloredtextinpython
+	url = https://github.com/techwithtim/coloredtextinpython.git
+[submodule "cornavirus-voice-assistant"]
+	path = cornavirus-voice-assistant
+	url = https://github.com/techwithtim/cornavirus-voice-assistant.git
+[submodule "django-website"]
+	path = django-website
+	url = https://github.com/techwithtim/django-website.git
+[submodule "face-recognition"]
+	path = face-recognition
+	url = https://github.com/techwithtim/face-recognition.git
+[submodule "flappy-bird"]
+	path = flappy-bird
+	url = https://github.com/techwithtim/flappy-bird.git
+[submodule "flask-web-app-tutorial"]
+	path = flask-web-app-tutorial
+	url = https://github.com/techwithtim/flask-web-app-tutorial.git
+[submodule "flutter-tutorial"]
+	path = flutter-tutorial
+	url = https://github.com/techwithtim/flutter-tutorial.git
+[submodule "game-launcher"]
+	path = game-launcher
+	url = https://github.com/techwithtim/game-launcher.git
+[submodule "golf-game"]
+	path = golf-game
+	url = https://github.com/techwithtim/golf-game.git
+[submodule "hangman"]
+	path = hangman
+	url = https://github.com/techwithtim/hangman.git
+[submodule "kivy-gui-example"]
+	path = kivy-gui-example
+	url = https://github.com/techwithtim/kivy-gui-example.git
+[submodule "mongodb-tutorial"]
+	path = mongodb-tutorial
+	url = https://github.com/techwithtim/mongodb-tutorial.git
+[submodule "music-controller-web-app-tutorial"]
+	path = music-controller-web-app-tutorial
+	url = https://github.com/techwithtim/music-controller-web-app-tutorial.git
+[submodule "neat-flappy-bird"]
+	path = neat-flappy-bird
+	url = https://github.com/techwithtim/neat-flappy-bird.git
+[submodule "network-game-tutorial"]
+	path = network-game-tutorial
+	url = https://github.com/techwithtim/network-game-tutorial.git
+[submodule "neural-style-transfer"]
+	path = neural-style-transfer
+	url = https://github.com/techwithtim/neural-style-transfer.git
+[submodule "number-guesser-neural-net"]
+	path = number-guesser-neural-net
+	url = https://github.com/techwithtim/number-guesser-neural-net.git
+[submodule "online-chess-game"]
+	path = online-chess-game
+	url = https://github.com/techwithtim/online-chess-game.git
+[submodule "online-rock-paper-scissors"]
+	path = online-rock-paper-scissors
+	url = https://github.com/techwithtim/online-rock-paper-scissors.git
+[submodule "pictonary-livestream"]
+	path = pictonary-livestream
+	url = https://github.com/techwithtim/pictonary-livestream.git
+[submodule "programming-problem-water-trapped"]
+	path = programming-problem-water-trapped
+	url = https://github.com/techwithtim/programming-problem-water-trapped.git
+[submodule "projectile-motion-physics-engine"]
+	path = projectile-motion-physics-engine
+	url = https://github.com/techwithtim/projectile-motion-physics-engine.git
+[submodule "pygame-tutorials"]
+	path = pygame-tutorials
+	url = https://github.com/techwithtim/pygame-tutorials.git
+[submodule "pygameforbeginners"]
+	path = pygameforbeginners
+	url = https://github.com/techwithtim/pygameforbeginners.git
+[submodule "python-checkers"]
+	path = python-checkers
+	url = https://github.com/techwithtim/python-checkers.git
+[submodule "python-checkers-ai"]
+	path = python-checkers-ai
+	url = https://github.com/techwithtim/python-checkers-ai.git
+[submodule "python-drawing-program"]
+	path = python-drawing-program
+	url = https://github.com/techwithtim/python-drawing-program.git
+[submodule "python-package-installer"]
+	path = python-package-installer
+	url = https://github.com/techwithtim/python-package-installer.git
+[submodule "schedule-creator"]
+	path = schedule-creator
+	url = https://github.com/techwithtim/schedule-creator.git
+[submodule "side-scroller-game"]
+	path = side-scroller-game
+	url = https://github.com/techwithtim/side-scroller-game.git
+[submodule "simple-game"]
+	path = simple-game
+	url = https://github.com/techwithtim/simple-game.git
+[submodule "slack-bot"]
+	path = slack-bot
+	url = https://github.com/techwithtim/slack-bot.git
+[submodule "snake-game"]
+	path = snake-game
+	url = https://github.com/techwithtim/snake-game.git
+[submodule "sudoku-gui-solver"]
+	path = sudoku-gui-solver
+	url = https://github.com/techwithtim/sudoku-gui-solver.git
+[submodule "tetris-game"]
+	path = tetris-game
+	url = https://github.com/techwithtim/tetris-game.git
+[submodule "tower-defense-game"]
+	path = tower-defense-game
+	url = https://github.com/techwithtim/tower-defense-game.git
+[submodule "turtle-race"]
+	path = turtle-race
+	url = https://github.com/techwithtim/turtle-race.git
+[submodule "walk-in-clinic-android-app"]
+	path = walk-in-clinic-android-app
+	url = https://github.com/techwithtim/walk-in-clinic-android-app.git
